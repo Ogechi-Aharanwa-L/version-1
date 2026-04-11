@@ -6,5 +6,5 @@
 3. To check staged files...git status
 4. Only staged files go to github
 5. All updated files must be staged
-6. To commit: git commit -m "First Commit"
+6. To commit: git commit -m "First Commit" (first commit:depends on your description)
 7. Push: git push -u origin main
