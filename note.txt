@@ -1,0 +1,7 @@
+1. Initialization - git Initialization (done once in a project)
+2. Staging:
+(a) git add <filename> (to stage one file)
+(b) git add. (to stage all files)
+
+3. To check staged files...git status
+4. Only staged files go to github
