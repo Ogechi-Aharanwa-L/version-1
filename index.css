@@ -9,3 +9,9 @@ h1 {
     color: gold;
     
 }
+
+header {
+    background-color: gold;
+    color: black;
+    padding: 1rem;
+}
