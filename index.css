@@ -2,19 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: cadetblue;
+   
 }
 
 h1 {
-    color: gold;
+    color:rgb(174, 27, 52);
     
 }
 
 header {
-    background-color: gold;
+    background-color: grey;
     color: black;
     padding: 1rem;
 }
 .hero {
     color: red;
+}
+.contact {
+    background-color: green;
+    color: white;
 }
