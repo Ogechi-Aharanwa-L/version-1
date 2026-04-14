@@ -17,8 +17,13 @@ header {
 }
 .hero {
     color: red;
+    height: 50vh;
 }
 .contact {
     background-color: green;
     color: white;
+}
+footer {
+   background-color: cornflowerblue;
+   padding: 4rem 0; 
 }
